@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.ui.fragments.HomeFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="@dimen/cardCornerRadius"
+                app:cardElevation="0dp"
+                android:layout_margin="15dp"
+                android:elevation="4dp">
+
+                <LinearLayout
+                    android:background="@drawable/shape_parrafo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/altoImagesViewHome"
+                        android:src="@drawable/cabecera_uacm_alt"/>
+                  <View
+                      android:layout_width="match_parent"
+                      android:layout_height="1dp"
+                      android:background="@color/black"
+                      />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_que_es"
+                        android:textStyle="bold"
+                        android:textSize="@dimen/tamanioTitulo"
+                        android:textColor="@color/design_default_color_primary_dark"
+                        android:layout_marginRight="@dimen/marginHomeSubtitulo"
+                        android:layout_marginLeft="@dimen/marginHomeSubtitulo"
+                        android:layout_marginTop="@dimen/marginHomeSubtitulo"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/marginHomeTOpView"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_que_es_resp"
+
+                        android:textSize="@dimen/tamanioSubtitulo"
+                        android:textColor="@color/design_default_color_primary"
+                        android:layout_marginRight="@dimen/marginHomeSubtitulo"
+                        android:layout_marginLeft="@dimen/marginHomeSubtitulo"
+                        android:layout_marginTop="@dimen/marginHomeSubtitulo"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/marginHomeTOpView"/>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/altoImagesViewHome"
+                        android:src="@drawable/banner"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_objetivos"
+                        android:textStyle="bold"
+                        android:textSize="@dimen/tamanioTitulo"
+                        android:textColor="@color/design_default_color_primary_dark"
+                        android:layout_marginRight="@dimen/marginHomeSubtitulo"
+                        android:layout_marginLeft="@dimen/marginHomeSubtitulo"
+                        android:layout_marginTop="@dimen/marginHomeSubtitulo"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/marginHomeTOpView"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_objetivos_resp"
+                        android:textSize="@dimen/tamanioSubtitulo"
+                        android:textColor="@color/design_default_color_primary"
+                        android:layout_marginRight="@dimen/marginHomeSubtitulo"
+                        android:layout_marginLeft="@dimen/marginHomeSubtitulo"
+                        android:layout_marginTop="@dimen/marginHomeSubtitulo"/>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/marginHomeTOpView"/>
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/altoImagesViewHome"
+                        android:src="@drawable/inicio_3"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_info"
+                        android:textStyle="bold"
+                        android:textSize="@dimen/tamanioTitulo"
+                        android:textColor="@color/design_default_color_primary_dark"
+                        android:layout_marginRight="@dimen/marginHomeSubtitulo"
+                        android:layout_marginLeft="@dimen/marginHomeSubtitulo"
+                        android:layout_marginTop="@dimen/marginHomeSubtitulo"/>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/marginHomeTOpView"/>
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inicio_frag_tv_info_resp"
+                        android:textSize="@dimen/tamanioSubtitulo"
+                        android:textColor="@color/design_default_color_primary"
+                        android:layout_marginRight="@dimen/marginHomeSubtitulo"
+                        android:layout_marginLeft="@dimen/marginHomeSubtitulo"
+                        android:layout_marginTop="@dimen/marginHomeSubtitulo"/>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

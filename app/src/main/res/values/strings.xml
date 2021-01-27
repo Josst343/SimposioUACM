@@ -1,0 +1,31 @@
+<resources>
+    <string name="hello_blank_fragment">Saludo :V</string>
+    <string name="app_name">SimposioUACM</string>
+    <string name="texto">Hola</string>
+    <string name="inicio_frag_tv_que_es">¿Qué es Simposio de Ingenieria ?</string>
+    <string name="inicio_frag_tv_que_es_resp">El simposio tiene como objetivo comunicar el desarrollo en las diversas áreas de la ingeniería, principalmente en aquellas disciplinas en las que se enfoca la oferta académica del Colegio de Ciencia y Tecnología de la UACM. El comienzo de una nueva normalidad implica retos y oportunidades sin precedentes para la tecnología, así como para los usuarios: mantener el distanciamiento por tiempo indefinido y al mismo tiempo permanecer conectados. En este contexto, el simposio de ingeniería busca cumplir su objetivo mediante la presentación de conferencias en modalidad virtual.</string>
+    <string name="inicio_frag_tv_objetivos">¿Objetivos?</string>
+    <string name="inicio_frag_tv_objetivos_resp">Difundir el desarrollo y la producción científica del área de la ingeniería y tecnología, principalmente en aquellas disciplinas a las que se enfoca la oferta académica del Colegio de Ciencia y Tecnología de la UACM: ingenierías de software, electrónica en telecomunicaciones, industrial, de transporte y en sistemas energéticos, así como las diversas disciplinas relacionadas.
+Fomentar la interrelación entre diferentes grupos de investigación en el área de la ingeniería y tecnología y las diversas disciplinas involucradas.
+Favorecer la comunicación y articulación de la comunidad de investigadores de la UACM.
+Brindar un espacio para la presentación de proyectos estudiantiles y avances de trabajos recepcionales o tesis de licenciatura, tesis de maestría y doctorado.
+Fomentar las actividades de divulgación científica.</string>
+    <string name="inicio_frag_tv_info">INFORMACION</string>
+    <string name="inicio_frag_tv_info_resp">
+        \u0009 &#8226; Es un evento exclusivo para estudiantes .\n
+        \u0009 &#8226; ().\n
+        \u0009 &#8226; Fecha:21 de septiembre de 2020 al 15 de enero de 2021.\n
+        \u0009 &#8226; Lugar: Conferencias virtuales .\n
+        \u0009 &#8226; Dirección: Calle Prolongación San Isidro No. 151, \nColonia San Lorenzo Tezonco,
+Alcaldía Iztapalapa, Ciudad de México, C.P. 09790..</string>
+    <string name="inicio_programa">Programa</string>
+    <string name="inicio_programa_descripcion">Simposio de Ingeniería UACM 2020
+Del 21 de septiembre de 2020 al 15 de enero de 2021
+Aún no disponible</string>
+    <string name="detalles_conferencia_speaker">
+        Detalle sobre la conferencia \n
+        Se da una breve descripcion sobre el expositor \n
+        Y se compartira informacion de contacto \n
+
+    </string>
+</resources>

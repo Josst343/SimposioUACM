@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.fragment:fragment-ktx:1.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d14866bf36ce8b887e2cb44fc0014968/jetified-fragment-ktx-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f0f5dee4881a48bf08b4f0949f803cf/jetified-fragment-ktx-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/083a7d3b3874daa6523d8be20578af25/jetified-fragment-ktx-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d33773f9062f6a58f2e347ecbc912c11/jetified-fragment-ktx-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa796200d1a45195c702f44d960bc5e9/jetified-fragment-ktx-1.1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa796200d1a45195c702f44d960bc5e9/jetified-fragment-ktx-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fa796200d1a45195c702f44d960bc5e9/jetified-fragment-ktx-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment-ktx/1.1.0/84c0229f5595c364575ed23ca5275fd9982289e3/fragment-ktx-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
